@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Leran\\SpartaDungeon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E6D3B7-31E3-49C6-9A82-F872BCB10FB2}|SpartaDungeon_TextRPG\\SpartaDungeon_TextRPG.csproj|c:\\leran\\spartadungeon\\spartadungeon_textrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E6D3B7-31E3-49C6-9A82-F872BCB10FB2}|SpartaDungeon_TextRPG\\SpartaDungeon_TextRPG.csproj|solutionrelative:spartadungeon_textrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AD10B2-10B8-46DB-BADF-22A481C3BAE9}|SpartaDungeon\\SpartaDungeon.csproj|c:\\leran\\spartadungeon\\spartadungeon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81AD10B2-10B8-46DB-BADF-22A481C3BAE9}|SpartaDungeon\\SpartaDungeon.csproj|solutionrelative:spartadungeon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4206A2-D1DD-4879-8846-68FD03CB5EBD}|ex\\ex.csproj|c:\\leran\\spartadungeon\\ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4206A2-D1DD-4879-8846-68FD03CB5EBD}|ex\\ex.csproj|solutionrelative:ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AD10B2-10B8-46DB-BADF-22A481C3BAE9}|SpartaDungeon\\SpartaDungeon.csproj|c:\\leran\\spartadungeon\\spartadungeon\\spartadungeon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{81AD10B2-10B8-46DB-BADF-22A481C3BAE9}|SpartaDungeon\\SpartaDungeon.csproj|solutionrelative:spartadungeon\\spartadungeon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Leran\\SpartaDungeon\\ex\\Program.cs",
+              "RelativeDocumentMoniker": "ex\\Program.cs",
+              "ToolTip": "C:\\Leran\\SpartaDungeon\\ex\\Program.cs",
+              "RelativeToolTip": "ex\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T08:09:33.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpartaDungeon",
+              "DocumentMoniker": "C:\\Leran\\SpartaDungeon\\SpartaDungeon\\SpartaDungeon.csproj",
+              "RelativeDocumentMoniker": "SpartaDungeon\\SpartaDungeon.csproj",
+              "ToolTip": "C:\\Leran\\SpartaDungeon\\SpartaDungeon\\SpartaDungeon.csproj",
+              "RelativeToolTip": "SpartaDungeon\\SpartaDungeon.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-04T06:10:34.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Leran\\SpartaDungeon\\SpartaDungeon\\Program.cs",
+              "RelativeDocumentMoniker": "SpartaDungeon\\Program.cs",
+              "ToolTip": "C:\\Leran\\SpartaDungeon\\SpartaDungeon\\Program.cs",
+              "RelativeToolTip": "SpartaDungeon\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T02:00:10.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Leran\\SpartaDungeon\\SpartaDungeon_TextRPG\\Program.cs",
+              "RelativeDocumentMoniker": "SpartaDungeon_TextRPG\\Program.cs",
+              "ToolTip": "C:\\Leran\\SpartaDungeon\\SpartaDungeon_TextRPG\\Program.cs",
+              "RelativeToolTip": "SpartaDungeon_TextRPG\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T05:09:52.863Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

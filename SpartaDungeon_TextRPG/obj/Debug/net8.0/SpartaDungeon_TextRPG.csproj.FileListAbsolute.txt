@@ -1,0 +1,14 @@
+C:\Leran\SpartaDungeon\SpartaDungeon_TextRPG\bin\Debug\net8.0\SpartaDungeon_TextRPG.exe
+C:\Leran\SpartaDungeon\SpartaDungeon_TextRPG\bin\Debug\net8.0\SpartaDungeon_TextRPG.deps.json
+C:\Leran\SpartaDungeon\SpartaDungeon_TextRPG\bin\Debug\net8.0\SpartaDungeon_TextRPG.runtimeconfig.json
+C:\Leran\SpartaDungeon\SpartaDungeon_TextRPG\bin\Debug\net8.0\SpartaDungeon_TextRPG.dll
+C:\Leran\SpartaDungeon\SpartaDungeon_TextRPG\bin\Debug\net8.0\SpartaDungeon_TextRPG.pdb
+C:\Leran\SpartaDungeon\SpartaDungeon_TextRPG\obj\Debug\net8.0\SpartaDungeon_TextRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Leran\SpartaDungeon\SpartaDungeon_TextRPG\obj\Debug\net8.0\SpartaDungeon_TextRPG.AssemblyInfoInputs.cache
+C:\Leran\SpartaDungeon\SpartaDungeon_TextRPG\obj\Debug\net8.0\SpartaDungeon_TextRPG.AssemblyInfo.cs
+C:\Leran\SpartaDungeon\SpartaDungeon_TextRPG\obj\Debug\net8.0\SpartaDungeon_TextRPG.csproj.CoreCompileInputs.cache
+C:\Leran\SpartaDungeon\SpartaDungeon_TextRPG\obj\Debug\net8.0\SpartaDungeon_TextRPG.dll
+C:\Leran\SpartaDungeon\SpartaDungeon_TextRPG\obj\Debug\net8.0\refint\SpartaDungeon_TextRPG.dll
+C:\Leran\SpartaDungeon\SpartaDungeon_TextRPG\obj\Debug\net8.0\SpartaDungeon_TextRPG.pdb
+C:\Leran\SpartaDungeon\SpartaDungeon_TextRPG\obj\Debug\net8.0\SpartaDungeon_TextRPG.genruntimeconfig.cache
+C:\Leran\SpartaDungeon\SpartaDungeon_TextRPG\obj\Debug\net8.0\ref\SpartaDungeon_TextRPG.dll
