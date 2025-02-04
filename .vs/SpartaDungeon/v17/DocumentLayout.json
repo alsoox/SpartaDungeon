@@ -38,21 +38,19 @@
               "RelativeToolTip": "ex\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T08:09:33.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T08:09:33.052Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "SpartaDungeon",
+              "Title": "SpartaDungeon.csproj",
               "DocumentMoniker": "C:\\Leran\\SpartaDungeon\\SpartaDungeon\\SpartaDungeon.csproj",
               "RelativeDocumentMoniker": "SpartaDungeon\\SpartaDungeon.csproj",
               "ToolTip": "C:\\Leran\\SpartaDungeon\\SpartaDungeon\\SpartaDungeon.csproj",
               "RelativeToolTip": "SpartaDungeon\\SpartaDungeon.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-04T06:10:34.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T06:10:34.26Z"
             },
             {
               "$type": "Document",
@@ -62,7 +60,7 @@
               "RelativeDocumentMoniker": "SpartaDungeon\\Program.cs",
               "ToolTip": "C:\\Leran\\SpartaDungeon\\SpartaDungeon\\Program.cs",
               "RelativeToolTip": "SpartaDungeon\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T02:00:10.678Z",
               "EditorCaption": ""
@@ -75,7 +73,7 @@
               "RelativeDocumentMoniker": "SpartaDungeon_TextRPG\\Program.cs",
               "ToolTip": "C:\\Leran\\SpartaDungeon\\SpartaDungeon_TextRPG\\Program.cs",
               "RelativeToolTip": "SpartaDungeon_TextRPG\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T05:09:52.863Z",
               "EditorCaption": ""
