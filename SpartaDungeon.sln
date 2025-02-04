@@ -1,13 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpartaDungeon", "SpartaDungeon\SpartaDungeon.csproj", "{81AD10B2-10B8-46DB-BADF-22A481C3BAE9}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpartaDungeon_TextRPG", "SpartaDungeon_TextRPG\SpartaDungeon_TextRPG.csproj", "{E2E6D3B7-31E3-49C6-9A82-F872BCB10FB2}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex", "ex\ex.csproj", "{8A4206A2-D1DD-4879-8846-68FD03CB5EBD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,18 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{81AD10B2-10B8-46DB-BADF-22A481C3BAE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{81AD10B2-10B8-46DB-BADF-22A481C3BAE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{81AD10B2-10B8-46DB-BADF-22A481C3BAE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{81AD10B2-10B8-46DB-BADF-22A481C3BAE9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E2E6D3B7-31E3-49C6-9A82-F872BCB10FB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E2E6D3B7-31E3-49C6-9A82-F872BCB10FB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2E6D3B7-31E3-49C6-9A82-F872BCB10FB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2E6D3B7-31E3-49C6-9A82-F872BCB10FB2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8A4206A2-D1DD-4879-8846-68FD03CB5EBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8A4206A2-D1DD-4879-8846-68FD03CB5EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8A4206A2-D1DD-4879-8846-68FD03CB5EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8A4206A2-D1DD-4879-8846-68FD03CB5EBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
