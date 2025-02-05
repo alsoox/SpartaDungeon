@@ -9,9 +9,9 @@ namespace SpartaDungeon_TextRPG
     //게임시작화면
     public class MainScene
     {
-        Player player;
-        static ItemData itemData = new ItemData();
-        List<Item> itemList = itemData.GetItemList();
+        Player player; 
+        static ItemData itemData = new ItemData();    //아이템 목록 생성
+        List<Item> itemList = itemData.GetItemList(); 
 
         public MainScene(Player player)
         {
@@ -31,28 +31,28 @@ namespace SpartaDungeon_TextRPG
 
                 int select = int.Parse(Console.ReadLine());
 
-                if (select == 1) // 상태 보기 화면 실행
+                if (select == 1) 
                 {
-                    PlayerInfoScene();
+                    PlayerInfoScene();           // 상태 보기 화면 실행
                 }
 
-                else if (select == 2) // 인벤토리 창 보기
+                else if (select == 2) 
                 {
-                    InventoryScene();
+                    InventoryScene();            // 인벤토리 창 보기
                 }
 
-                else if (select == 3)// 상점 창 보기
+                else if (select == 3)
                 {
-                    StoreScene();
-                }
-                else
+                    StoreScene();                // 상점 창 보기
+                } 
+                else                 
                 {
-                    WorngInput();
+                    WorngInput();                // 잘못 입력시
                 }
             }
         }
 
-        //플레이어 상태보기
+        // 상태 보기 화면 실행 메서드
         public void PlayerInfoScene()
         {
             while (true)
@@ -67,23 +67,22 @@ namespace SpartaDungeon_TextRPG
                 Console.WriteLine();
                 Console.WriteLine("0. 나가기");
                 Console.WriteLine();
-                ActInputConsole();
+                ActInputConsole();  
 
                 int select = int.Parse(Console.ReadLine());
 
                 if (select == 0)
                 {
-                    return;
+                    return;       // 이전 화면 다시 돌아가기
                 }
                 else
                 {
-                    Console.WriteLine("잘못된 입력입니다.");
-                    Console.ReadLine();
+                    WorngInput();
                 }
             }
         }
 
-        //상점보기
+        // 상점 창 보기 메서드
         public void StoreScene()
         {
             while (true)
@@ -116,7 +115,7 @@ namespace SpartaDungeon_TextRPG
             }
         }
 
-        //인벤토리 보여주는 메서드
+        // 인벤토리 창 보기 메서드
         public void InventoryScene()
         {
             while(true)
@@ -129,7 +128,7 @@ namespace SpartaDungeon_TextRPG
                     Console.WriteLine("보유한 아이템이 없습니다.");
                 }
 
-                else
+                else  //인벤토리 목록 보여주기
                 {
                     for (int i = 0; i < player.Inventory.Count; i++)
                     {
@@ -152,7 +151,7 @@ namespace SpartaDungeon_TextRPG
                 }
                 else if (selcet == 1)
                 {
-                    ItemEquip();
+                    ItemEquip();  //장비 장착 화면 실행
                 }
                 else
                 {
@@ -161,7 +160,7 @@ namespace SpartaDungeon_TextRPG
             }
         }
 
-        //장비를 장착한다고 했을때
+        //장비 장착 화면 실행 메서드
         public void ItemEquip()
         {
             while (true)
@@ -176,7 +175,7 @@ namespace SpartaDungeon_TextRPG
 
                 else
                 {
-                    for (int i = 0; i < player.Inventory.Count; i++)
+                    for (int i = 0; i < player.Inventory.Count; i++) // 인벤토리에서 장착된 아이템 표시
                     {
                         player.Inventory[i].DisplayeItemEquipIn(i);
                     }
@@ -190,7 +189,7 @@ namespace SpartaDungeon_TextRPG
                 
                 if (select == 0)
                 {
-                    return;
+                    return; //나가기
                 }
 
                 if (select < 1 || select > player.Inventory.Count)
@@ -201,7 +200,7 @@ namespace SpartaDungeon_TextRPG
                 //선택한 아이템 인덱스 확인
                 Item selectedItem = player.Inventory[select - 1];
 
-                if (selectedItem.IsEquip)
+                if (selectedItem.IsEquip) //장비 해제 - 플레이어 스텟 변경 및 착용 여부 변경
                 {
                     selectedItem.IsEquip = false;
                     player.EquipItem.Remove(selectedItem);
@@ -210,7 +209,7 @@ namespace SpartaDungeon_TextRPG
                     Console.WriteLine($"{selectedItem.Name}을(를) 해제했습니다!");
                 }
 
-                else
+                else  //장비 장착 - 플레이어 스텟 변경 및 착용 여부 변경
                 {
 
                     selectedItem.IsEquip = true;
@@ -228,9 +227,9 @@ namespace SpartaDungeon_TextRPG
         public void ItemBuy()
         {
             ItemMenuConsole();
-            for (int i = 0; i < itemList.Count; i++)
+            for (int i = 0; i < itemList.Count; i++)   //상점 창 아이템 보여주기
             {
-                itemList[i].DisplayeItemBuyIn(i);
+                itemList[i].DisplayeItemBuyIn(i);  
             }
             Console.WriteLine();
             Console.WriteLine("0. 나가기");
@@ -243,8 +242,7 @@ namespace SpartaDungeon_TextRPG
 
             if (select < 1 || select > itemList.Count)  // 잘못된 입력 방지
             {
-                Console.WriteLine("잘못된 입력입니다.");
-                Console.ReadLine();
+                WorngInput();
                 return;
             }
 
@@ -269,12 +267,13 @@ namespace SpartaDungeon_TextRPG
             Console.ReadLine();
         }
 
+        //아이템 인벤토리 리스트 가져오는 메서드
         public List<Item> Iventory()
         {
             List<Item> Inventory = new List<Item>();
             foreach (Item item in itemList)
             {
-                if (item.IsPurchase)
+                if (item.IsPurchase)  //구매한 목록 확인 후 리스트 추가
                 {
                     Inventory.Add(item);
                 }
@@ -300,7 +299,7 @@ namespace SpartaDungeon_TextRPG
         }
 
 
-        //주어진 숫자 이외 입력 시
+        // 잘못 입력시
         public void WorngInput()
         {
             Console.WriteLine("잘못된 입력입니다.");
@@ -313,7 +312,7 @@ namespace SpartaDungeon_TextRPG
     {
         public string Name { get; }
         public string Description { get; set; }
-        public int Type { get; } // 방어구, 무기 여부 방어구 :0 무기 :1  
+        public int Type { get; }  // 방어구 : 0 / 무기 :1 
         public int DefensePower { get; }
         public int AttackPower { get; }
         public int Price { get; set; }
@@ -333,7 +332,7 @@ namespace SpartaDungeon_TextRPG
             IsPurchase = false;
         }
 
-        //아이템 구매창표시
+        //아이템 구매창표시 (구매한 아이템 - 구매완료)
         public void DisplayeItemBuy()
         {
             if (Type == 0)
@@ -355,7 +354,7 @@ namespace SpartaDungeon_TextRPG
             
         }
 
-        //아이템 구매한다고 들어갔을때 표시
+        //아이템 구매한다고 들어갔을때 표시 (구매한 아이템 - 구매완료, 미구매 아이템 - 구매번호)
         public void DisplayeItemBuyIn(int index)
         {
             if (Type == 0)
@@ -376,7 +375,7 @@ namespace SpartaDungeon_TextRPG
             }
         }
 
-        //아이템 선택창에서 보여주는 표시
+        //아이템 선택창에서 보여주는 표시 (장착한 아이템 - [E])
         public void DisplayeItemEquip()
         {
             if (Type == 0)
@@ -397,7 +396,7 @@ namespace SpartaDungeon_TextRPG
             }
         }
 
-        //선택한다고 들어갔을때 보여주는 표시
+        //선택한다고 들어갔을때 보여주는 표시(장착한 아이템 - [E], 미장착 아이템 - 구매번호)
         public void DisplayeItemEquipIn(int index)
         {
             if (Type == 0)
@@ -457,6 +456,7 @@ namespace SpartaDungeon_TextRPG
         public int Health { get; set; }
         public int Gold { get; set; }
 
+        //인벤토리 및 장착 아이템 리스트
         public List<Item> Inventory { get; set; }
         public List<Item> EquipItem { get; set; }
 
@@ -473,9 +473,9 @@ namespace SpartaDungeon_TextRPG
             Inventory = new List<Item>();
             EquipItem = new List<Item>();
         }
-
     }
 
+    //실행 프로그램
     class Program
     {
         static Player player = new Player();

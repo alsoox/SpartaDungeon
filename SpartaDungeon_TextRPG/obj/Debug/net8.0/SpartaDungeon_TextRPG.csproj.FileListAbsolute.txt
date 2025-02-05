@@ -12,3 +12,4 @@ C:\Leran\SpartaDungeon\SpartaDungeon_TextRPG\obj\Debug\net8.0\refint\SpartaDunge
 C:\Leran\SpartaDungeon\SpartaDungeon_TextRPG\obj\Debug\net8.0\SpartaDungeon_TextRPG.pdb
 C:\Leran\SpartaDungeon\SpartaDungeon_TextRPG\obj\Debug\net8.0\SpartaDungeon_TextRPG.genruntimeconfig.cache
 C:\Leran\SpartaDungeon\SpartaDungeon_TextRPG\obj\Debug\net8.0\ref\SpartaDungeon_TextRPG.dll
+C:\Leran\SpartaDungeon\SpartaDungeon_TextRPG\obj\Debug\net8.0\SpartaDungeon_TextRPG.sourcelink.json
