@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SpartaDungeon_TextRPG_Solution/1.0.0": {
+        "runtime": {
+          "SpartaDungeon_TextRPG_Solution.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SpartaDungeon_TextRPG_Solution/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
