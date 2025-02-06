@@ -44,10 +44,43 @@ namespace SpartaDungeon_TextRPG_Solution
             Console.WriteLine($"{Name} ({Job})");
             string str = EquipAtk == 0 ? $"공격력 : {Atk}" : $"공격력 : {Atk} + ({EquipAtk})";
             Console.WriteLine(str);
-            str = EquipDef == 0 ? $"공격력 : {Def}" : $"방어력 : {Def} + ({EquipDef})";
+            str = EquipDef == 0 ? $"공격력 : {Def}" : $"방어력 : {Def + EquipDef} + ({EquipDef})";
             Console.WriteLine(str);
             Console.WriteLine($"체 력 :  {Hp}");
             Console.WriteLine($"Gold : {Gold}");
+        }
+
+        public void EquipItem(Item item)
+        {
+            if (item.isEquip)
+            {
+                UnEquip(item);
+            }
+            else
+            {
+                item.isEquip = true;
+
+                if (item.Type == ItemType.Weapon)
+                {
+                    EquipAtk += item.Value;
+                }
+                else
+                {
+                    EquipDef += item.Value;
+                }
+            }
+            
+        }
+
+        public void UnEquip(Item item)
+        {
+            item.isEquip = false;
+
+            if (item.Type == ItemType.Weapon)
+                EquipAtk -= item.Value;
+            else
+                EquipDef -= item.Value;
+
         }
     }
 }

@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Leran\\SpartaDungeon\\SpartaDungeon_TextRPG_Solution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7ADCC859-D0B0-4D00-AAAF-A360BE853A40}|SpartaDungeon_TextRPG_Solution\\SpartaDungeon_TextRPG_Solution.csproj|c:\\leran\\spartadungeon\\spartadungeon_textrpg_solution\\spartadungeon_textrpg_solution\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7ADCC859-D0B0-4D00-AAAF-A360BE853A40}|SpartaDungeon_TextRPG_Solution\\SpartaDungeon_TextRPG_Solution.csproj|solutionrelative:spartadungeon_textrpg_solution\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alsoo\\AppData\\Local\\Temp\\4b9255c3-9a68-42dc-802e-cb2abfc8a699_TextRPG_Personal (1).zip.699\\TextRPG_Personal\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alsoo\\AppData\\Local\\Temp\\b545ed7e-e7d7-47d8-a220-b5d4dfc9263a_TextRPG_Personal (1).zip.63a\\TextRPG_Personal\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7ADCC859-D0B0-4D00-AAAF-A360BE853A40}|SpartaDungeon_TextRPG_Solution\\SpartaDungeon_TextRPG_Solution.csproj|c:\\leran\\spartadungeon\\spartadungeon_textrpg_solution\\spartadungeon_textrpg_solution\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ADCC859-D0B0-4D00-AAAF-A360BE853A40}|SpartaDungeon_TextRPG_Solution\\SpartaDungeon_TextRPG_Solution.csproj|solutionrelative:spartadungeon_textrpg_solution\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7ADCC859-D0B0-4D00-AAAF-A360BE853A40}|SpartaDungeon_TextRPG_Solution\\SpartaDungeon_TextRPG_Solution.csproj|c:\\leran\\spartadungeon\\spartadungeon_textrpg_solution\\spartadungeon_textrpg_solution\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7ADCC859-D0B0-4D00-AAAF-A360BE853A40}|SpartaDungeon_TextRPG_Solution\\SpartaDungeon_TextRPG_Solution.csproj|solutionrelative:spartadungeon_textrpg_solution\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7ADCC859-D0B0-4D00-AAAF-A360BE853A40}|SpartaDungeon_TextRPG_Solution\\SpartaDungeon_TextRPG_Solution.csproj|c:\\leran\\spartadungeon\\spartadungeon_textrpg_solution\\spartadungeon_textrpg_solution\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7ADCC859-D0B0-4D00-AAAF-A360BE853A40}|SpartaDungeon_TextRPG_Solution\\SpartaDungeon_TextRPG_Solution.csproj|solutionrelative:spartadungeon_textrpg_solution\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7ADCC859-D0B0-4D00-AAAF-A360BE853A40}|SpartaDungeon_TextRPG_Solution\\SpartaDungeon_TextRPG_Solution.csproj|c:\\leran\\spartadungeon\\spartadungeon_textrpg_solution\\spartadungeon_textrpg_solution\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ADCC859-D0B0-4D00-AAAF-A360BE853A40}|SpartaDungeon_TextRPG_Solution\\SpartaDungeon_TextRPG_Solution.csproj|solutionrelative:spartadungeon_textrpg_solution\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alsoo\\AppData\\Local\\Temp\\cdd9c60e-1d1c-416c-bf3a-6bba5fa8401e_TextRPG_Personal (1).zip.01e\\TextRPG_Personal\\ConsoleUtility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alsoo\\AppData\\Local\\Temp\\5a78372e-ef48-4d7b-8414-03358b0e4d13_TextRPG_Personal (1).zip.d13\\TextRPG_Personal\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alsoo\\AppData\\Local\\Temp\\fab67a2f-dc4a-4f41-a25c-924ee852cf1e_TextRPG_Personal (1).zip.f1e\\TextRPG_Personal\\Item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alsoo\\AppData\\Local\\Temp\\f6f11c97-b29d-4e5c-8d2d-3507282ce6f9_TextRPG_Personal (1).zip.6f9\\TextRPG_Personal\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7ADCC859-D0B0-4D00-AAAF-A360BE853A40}|SpartaDungeon_TextRPG_Solution\\SpartaDungeon_TextRPG_Solution.csproj|c:\\leran\\spartadungeon\\spartadungeon_textrpg_solution\\spartadungeon_textrpg_solution\\consolemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7ADCC859-D0B0-4D00-AAAF-A360BE853A40}|SpartaDungeon_TextRPG_Solution\\SpartaDungeon_TextRPG_Solution.csproj|solutionrelative:spartadungeon_textrpg_solution\\consolemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alsoo\\AppData\\Local\\Temp\\efa65d21-f27c-42bf-8eaf-812223701952_TextRPG_Personal (1).zip.952\\TextRPG_Personal\\ConsoleUtility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alsoo\\AppData\\Local\\Temp\\09c0d931-a6ad-46b9-9614-2e2a09c7b5c0_TextRPG_Personal (1).zip.5c0\\TextRPG_Personal\\Item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7ADCC859-D0B0-4D00-AAAF-A360BE853A40}|SpartaDungeon_TextRPG_Solution\\SpartaDungeon_TextRPG_Solution.csproj|c:\\leran\\spartadungeon\\spartadungeon_textrpg_solution\\spartadungeon_textrpg_solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,56 +42,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Leran\\SpartaDungeon\\SpartaDungeon_TextRPG_Solution\\SpartaDungeon_TextRPG_Solution\\GameManager.cs",
               "RelativeDocumentMoniker": "SpartaDungeon_TextRPG_Solution\\GameManager.cs",
               "ToolTip": "C:\\Leran\\SpartaDungeon\\SpartaDungeon_TextRPG_Solution\\SpartaDungeon_TextRPG_Solution\\GameManager.cs",
               "RelativeToolTip": "SpartaDungeon_TextRPG_Solution\\GameManager.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAnwFYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAIEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T08:47:14.833Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\Leran\\SpartaDungeon\\SpartaDungeon_TextRPG_Solution\\SpartaDungeon_TextRPG_Solution\\Item.cs",
               "RelativeDocumentMoniker": "SpartaDungeon_TextRPG_Solution\\Item.cs",
               "ToolTip": "C:\\Leran\\SpartaDungeon\\SpartaDungeon_TextRPG_Solution\\SpartaDungeon_TextRPG_Solution\\Item.cs",
               "RelativeToolTip": "SpartaDungeon_TextRPG_Solution\\Item.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAcwDIAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwCoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T08:34:20.831Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Leran\\SpartaDungeon\\SpartaDungeon_TextRPG_Solution\\SpartaDungeon_TextRPG_Solution\\Player.cs",
               "RelativeDocumentMoniker": "SpartaDungeon_TextRPG_Solution\\Player.cs",
               "ToolTip": "C:\\Leran\\SpartaDungeon\\SpartaDungeon_TextRPG_Solution\\SpartaDungeon_TextRPG_Solution\\Player.cs",
               "RelativeToolTip": "SpartaDungeon_TextRPG_Solution\\Player.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACwAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T08:32:23.106Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "ConsoleManager.cs",
               "DocumentMoniker": "C:\\Leran\\SpartaDungeon\\SpartaDungeon_TextRPG_Solution\\SpartaDungeon_TextRPG_Solution\\ConsoleManager.cs",
               "RelativeDocumentMoniker": "SpartaDungeon_TextRPG_Solution\\ConsoleManager.cs",
               "ToolTip": "C:\\Leran\\SpartaDungeon\\SpartaDungeon_TextRPG_Solution\\SpartaDungeon_TextRPG_Solution\\ConsoleManager.cs",
               "RelativeToolTip": "SpartaDungeon_TextRPG_Solution\\ConsoleManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T09:00:32.168Z",
               "EditorCaption": ""
@@ -106,8 +106,7 @@
               "RelativeToolTip": "SpartaDungeon_TextRPG_Solution\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T08:29:57.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T08:29:57.918Z"
             }
           ]
         }
@@ -117,10 +116,10 @@
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "FloatingWindowState": {
-        "Id": "c7706ea3-580d-4aea-80d2-9cea78c9c4eb",
+        "Id": "cec8ef00-be08-4d66-8e56-1db86705e8ec",
         "Display": 0,
-        "X": 129,
-        "Y": 257,
+        "X": 92,
+        "Y": 285,
         "Width": 1310,
         "Height": 847,
         "WindowState": 0
@@ -132,54 +131,54 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ConsoleUtility.cs",
-              "DocumentMoniker": "C:\\Users\\alsoo\\AppData\\Local\\Temp\\cdd9c60e-1d1c-416c-bf3a-6bba5fa8401e_TextRPG_Personal (1).zip.01e\\TextRPG_Personal\\ConsoleUtility.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Users\\alsoo\\AppData\\Local\\Temp\\cdd9c60e-1d1c-416c-bf3a-6bba5fa8401e_TextRPG_Personal (1).zip.01e\\TextRPG_Personal\\ConsoleUtility.cs",
-              "ToolTip": "C:\\Users\\alsoo\\AppData\\Local\\Temp\\cdd9c60e-1d1c-416c-bf3a-6bba5fa8401e_TextRPG_Personal (1).zip.01e\\TextRPG_Personal\\ConsoleUtility.cs [\uC77D\uAE30 \uC804\uC6A9]",
-              "RelativeToolTip": "..\\..\\..\\Users\\alsoo\\AppData\\Local\\Temp\\cdd9c60e-1d1c-416c-bf3a-6bba5fa8401e_TextRPG_Personal (1).zip.01e\\TextRPG_Personal\\ConsoleUtility.cs [\uC77D\uAE30 \uC804\uC6A9]",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T10:09:06.682Z",
-              "EditorCaption": " [\uC77D\uAE30 \uC804\uC6A9]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "ConsoleUtility.cs",
+              "DocumentMoniker": "C:\\Users\\alsoo\\AppData\\Local\\Temp\\efa65d21-f27c-42bf-8eaf-812223701952_TextRPG_Personal (1).zip.952\\TextRPG_Personal\\ConsoleUtility.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\alsoo\\AppData\\Local\\Temp\\efa65d21-f27c-42bf-8eaf-812223701952_TextRPG_Personal (1).zip.952\\TextRPG_Personal\\ConsoleUtility.cs",
+              "ToolTip": "C:\\Users\\alsoo\\AppData\\Local\\Temp\\efa65d21-f27c-42bf-8eaf-812223701952_TextRPG_Personal (1).zip.952\\TextRPG_Personal\\ConsoleUtility.cs [\uC77D\uAE30 \uC804\uC6A9]",
+              "RelativeToolTip": "..\\..\\..\\Users\\alsoo\\AppData\\Local\\Temp\\efa65d21-f27c-42bf-8eaf-812223701952_TextRPG_Personal (1).zip.952\\TextRPG_Personal\\ConsoleUtility.cs [\uC77D\uAE30 \uC804\uC6A9]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T02:23:46.716Z",
+              "EditorCaption": " [\uC77D\uAE30 \uC804\uC6A9]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\alsoo\\AppData\\Local\\Temp\\fab67a2f-dc4a-4f41-a25c-924ee852cf1e_TextRPG_Personal (1).zip.f1e\\TextRPG_Personal\\Item.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Users\\alsoo\\AppData\\Local\\Temp\\fab67a2f-dc4a-4f41-a25c-924ee852cf1e_TextRPG_Personal (1).zip.f1e\\TextRPG_Personal\\Item.cs",
-              "ToolTip": "C:\\Users\\alsoo\\AppData\\Local\\Temp\\fab67a2f-dc4a-4f41-a25c-924ee852cf1e_TextRPG_Personal (1).zip.f1e\\TextRPG_Personal\\Item.cs [\uC77D\uAE30 \uC804\uC6A9]",
-              "RelativeToolTip": "..\\..\\..\\Users\\alsoo\\AppData\\Local\\Temp\\fab67a2f-dc4a-4f41-a25c-924ee852cf1e_TextRPG_Personal (1).zip.f1e\\TextRPG_Personal\\Item.cs [\uC77D\uAE30 \uC804\uC6A9]",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAATAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\alsoo\\AppData\\Local\\Temp\\09c0d931-a6ad-46b9-9614-2e2a09c7b5c0_TextRPG_Personal (1).zip.5c0\\TextRPG_Personal\\Item.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\alsoo\\AppData\\Local\\Temp\\09c0d931-a6ad-46b9-9614-2e2a09c7b5c0_TextRPG_Personal (1).zip.5c0\\TextRPG_Personal\\Item.cs",
+              "ToolTip": "C:\\Users\\alsoo\\AppData\\Local\\Temp\\09c0d931-a6ad-46b9-9614-2e2a09c7b5c0_TextRPG_Personal (1).zip.5c0\\TextRPG_Personal\\Item.cs [\uC77D\uAE30 \uC804\uC6A9]",
+              "RelativeToolTip": "..\\..\\..\\Users\\alsoo\\AppData\\Local\\Temp\\09c0d931-a6ad-46b9-9614-2e2a09c7b5c0_TextRPG_Personal (1).zip.5c0\\TextRPG_Personal\\Item.cs [\uC77D\uAE30 \uC804\uC6A9]",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T10:01:57.984Z",
+              "WhenOpened": "2025-02-06T02:23:46.153Z",
               "EditorCaption": " [\uC77D\uAE30 \uC804\uC6A9]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\alsoo\\AppData\\Local\\Temp\\4b9255c3-9a68-42dc-802e-cb2abfc8a699_TextRPG_Personal (1).zip.699\\TextRPG_Personal\\Player.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Users\\alsoo\\AppData\\Local\\Temp\\4b9255c3-9a68-42dc-802e-cb2abfc8a699_TextRPG_Personal (1).zip.699\\TextRPG_Personal\\Player.cs",
-              "ToolTip": "C:\\Users\\alsoo\\AppData\\Local\\Temp\\4b9255c3-9a68-42dc-802e-cb2abfc8a699_TextRPG_Personal (1).zip.699\\TextRPG_Personal\\Player.cs [\uC77D\uAE30 \uC804\uC6A9]",
-              "RelativeToolTip": "..\\..\\..\\Users\\alsoo\\AppData\\Local\\Temp\\4b9255c3-9a68-42dc-802e-cb2abfc8a699_TextRPG_Personal (1).zip.699\\TextRPG_Personal\\Player.cs [\uC77D\uAE30 \uC804\uC6A9]",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\alsoo\\AppData\\Local\\Temp\\5a78372e-ef48-4d7b-8414-03358b0e4d13_TextRPG_Personal (1).zip.d13\\TextRPG_Personal\\Player.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\alsoo\\AppData\\Local\\Temp\\5a78372e-ef48-4d7b-8414-03358b0e4d13_TextRPG_Personal (1).zip.d13\\TextRPG_Personal\\Player.cs",
+              "ToolTip": "C:\\Users\\alsoo\\AppData\\Local\\Temp\\5a78372e-ef48-4d7b-8414-03358b0e4d13_TextRPG_Personal (1).zip.d13\\TextRPG_Personal\\Player.cs [\uC77D\uAE30 \uC804\uC6A9]",
+              "RelativeToolTip": "..\\..\\..\\Users\\alsoo\\AppData\\Local\\Temp\\5a78372e-ef48-4d7b-8414-03358b0e4d13_TextRPG_Personal (1).zip.d13\\TextRPG_Personal\\Player.cs [\uC77D\uAE30 \uC804\uC6A9]",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwv0QAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T10:01:51.174Z",
+              "WhenOpened": "2025-02-06T02:23:44.996Z",
               "EditorCaption": " [\uC77D\uAE30 \uC804\uC6A9]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alsoo\\AppData\\Local\\Temp\\b545ed7e-e7d7-47d8-a220-b5d4dfc9263a_TextRPG_Personal (1).zip.63a\\TextRPG_Personal\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Users\\alsoo\\AppData\\Local\\Temp\\b545ed7e-e7d7-47d8-a220-b5d4dfc9263a_TextRPG_Personal (1).zip.63a\\TextRPG_Personal\\Program.cs",
-              "ToolTip": "C:\\Users\\alsoo\\AppData\\Local\\Temp\\b545ed7e-e7d7-47d8-a220-b5d4dfc9263a_TextRPG_Personal (1).zip.63a\\TextRPG_Personal\\Program.cs [\uC77D\uAE30 \uC804\uC6A9]",
-              "RelativeToolTip": "..\\..\\..\\Users\\alsoo\\AppData\\Local\\Temp\\b545ed7e-e7d7-47d8-a220-b5d4dfc9263a_TextRPG_Personal (1).zip.63a\\TextRPG_Personal\\Program.cs [\uC77D\uAE30 \uC804\uC6A9]",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAMwO0AAAAIAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\alsoo\\AppData\\Local\\Temp\\f6f11c97-b29d-4e5c-8d2d-3507282ce6f9_TextRPG_Personal (1).zip.6f9\\TextRPG_Personal\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\alsoo\\AppData\\Local\\Temp\\f6f11c97-b29d-4e5c-8d2d-3507282ce6f9_TextRPG_Personal (1).zip.6f9\\TextRPG_Personal\\Program.cs",
+              "ToolTip": "C:\\Users\\alsoo\\AppData\\Local\\Temp\\f6f11c97-b29d-4e5c-8d2d-3507282ce6f9_TextRPG_Personal (1).zip.6f9\\TextRPG_Personal\\Program.cs [\uC77D\uAE30 \uC804\uC6A9]",
+              "RelativeToolTip": "..\\..\\..\\Users\\alsoo\\AppData\\Local\\Temp\\f6f11c97-b29d-4e5c-8d2d-3507282ce6f9_TextRPG_Personal (1).zip.6f9\\TextRPG_Personal\\Program.cs [\uC77D\uAE30 \uC804\uC6A9]",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAMwNQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T10:24:11.933Z",
+              "WhenOpened": "2025-02-06T02:23:35.26Z",
               "EditorCaption": " [\uC77D\uAE30 \uC804\uC6A9]"
             }
           ]

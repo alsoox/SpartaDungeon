@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.Design;
 using System.Diagnostics;
 using System.Linq;
 using System.Security.Cryptography.X509Certificates;
@@ -82,10 +83,69 @@ namespace SpartaDungeon_TextRPG_Solution
             Console.WriteLine("보유 중인 아이템을 관리할 수 있습니다.");
             Console.WriteLine();
             Console.WriteLine("[아이템 목록]");
+
+            //아이템목록보여주기
+
+            for (int i = 0; i < inventory.Count; i++)
+            {
+                Console.WriteLine("- " +inventory[i].ItemDisPlay());
+            }
+
+            Console.WriteLine();
+            Console.WriteLine("1. 장착관리");
+            Console.WriteLine("0. 나가기");
             Console.WriteLine();
 
+            int input = ConsoleManager.GetInput(0, 1);
+            switch(input)
+            {
+                case 1:
+                    EquipScene();
+                    break;
+            }
 
+            MainScene();
+        }
 
+        public void EquipScene()
+        {
+            Console.Clear();
+            Console.WriteLine("인벤토리 - 장착관리");
+            Console.WriteLine("보유 중인 아이템을 관리할 수 있습니다.");
+            Console.WriteLine();
+            Console.WriteLine("[아이템 목록]");
+
+            for (int i = 0; i < inventory.Count; i++)
+            {
+                Console.WriteLine($"- {i+1} {inventory[i].ItemDisPlay()}");
+            }
+
+            Console.WriteLine();
+            Console.WriteLine("0. 나가기");
+
+            int input = ConsoleManager.GetInput(0, inventory.Count);
+            if (input != 0)
+            {
+                Equip(input);
+                
+            }
+
+            IventoryScene();
+
+        }
+
+        public void Equip(int input)
+        {
+            Item select = inventory[input - 1];
+
+            for (int i = 0; i < inventory.Count; i++)
+            {
+                if (inventory[i].isEquip)
+                {
+                    player.EquipItem(select);
+                }
+            }
+            player.EquipItem(select);
         }
 
         public void StoreScene()
